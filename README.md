@@ -1,5 +1,4 @@
-# site-starter-hello-world
-
+# site-starter-webpack
 Jamsite starter with webpack integration.
 
 ## Install
