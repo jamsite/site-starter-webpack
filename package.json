@@ -1,0 +1,22 @@
+{
+  "name": "@jamsite/site-starter-webpack",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Jamsite webpack starter site.",
+  "scripts": {
+    "start": "npx jamsite start",
+    "inspect": "npx --node-arg=--inspect jamsite start",
+    "dev": "npx jamsite start-dev"
+  },
+  "author": "Aleksandr Tsertkov <tsertkov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@jamsite/jamsite": "0.0.x"
+  },
+  "devDependencies": {
+    "@jamsite/jamsite-dev": "0.0.x",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-manifest-plugin": "^2.2.0"
+  }
+}
