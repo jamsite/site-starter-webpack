@@ -1,6 +1,6 @@
 # site-starter-hello-world
 
-Jamsite starter with webpack bunder integration.
+Jamsite starter with webpack integration.
 
 ## Install
 
